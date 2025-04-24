@@ -1,0 +1,11 @@
+SWITCH KVM
++---+--------------+--------+
+| 1 | BROWN/WHITE  | GND    |
+| 2 | ORANGE/WHITE | LED1   |
+| 3 | ORANGE       | LED2   |
+| 4 | BLUE         | LED3   |
+| 5 | BLUE/WHITE   | LED4   |
+| 6 | GREEN        | BUTTON |
+| 7 | GREEN/WHITE  | BUTTON |
+| 8 | BROWN        | +5V    |
++---+--------------+--------+
